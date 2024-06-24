@@ -1,7 +1,7 @@
 # AMSR2-CSAT-Combined
 Optimal estimation combined algorithm for AMSR2-CloudSat coincident overpass data. 
 
-This is the source code for the optimal estimation (OE) combined algorithm for drizzle retrievals used in the study Jones and Kummerow 2024 (manuscript submitted for peer review). 
+This is the source code for the optimal estimation (OE) combined algorithm for drizzle retrievals used in the study Jones and Kummerow 2024 (manuscript submitted for peer review). Source code for retrieval is in Fortran90 and jupyter notebooks contain code for creating the figures in the paper. Figures can also be downloaded in their native jpeg format for reproduction purposes with proper citations.
 
 Some important notes:
 1. Due to data limitations, many of the lookup tables are omitted, but the source code is possible to run without the tables using some of the native subroutines included.
@@ -11,6 +11,10 @@ Some important notes:
        3) Gamma particle size distribution lookup table and snow scattering lookup table are not provided, but were created using the mie.f subroutine and the read routines for them are provided in dsd.f90 to aid the user in reconstructing them.
        4) Surface emissivity model used was FastEM6 (Liu et al. 2011).
        5) HDF5 libraries are not included.
+3. SOFTWARE IS PROVIDED FOR REFERENCE PURPOSES ONLY AND COMES WITH NO WARRANTY, IMPLIED OR OTHERWISE, AND NO GUARANTEE OF CROSS-PLATFORM COMPATIBILITY.
+
+
+Any questions should be directed to Spencer R. Jones: spencer.jones@colostate.edu
 
 
 References:
