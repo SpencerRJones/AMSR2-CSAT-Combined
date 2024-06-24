@@ -18,4 +18,4 @@ References:
 
 Duncan, D.I. and C.D. Kummerow, 2016: A 1DVAR retrieval applied to GMI: Algorithm description, validation, and sensitivities. Journal of Geophysical Research: Atmospheres. 121, 7415-7429. https://doi.org/10.1002/2016/JD024808
 
-Liu, Q., Weng, F., and S.J. English, 2011: An Improved Fast Microwave Water Emissivity Model. IEEE Transactions on Geoscience and Remote Sensing, 49, 4, 1238-1250. 10.1109/TGRS.2010.2064779
+Liu, Q., Weng, F., and S.J. English, 2011: An Improved Fast Microwave Water Emissivity Model. IEEE Transactions on Geoscience and Remote Sensing, 49, 4, 1238-1250. https://doi.org/10.1109/TGRS.2010.2064779
