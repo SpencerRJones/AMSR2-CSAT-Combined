@@ -14,7 +14,7 @@ Some important notes:
 3. SOFTWARE IS PROVIDED FOR REFERENCE PURPOSES ONLY AND COMES WITH NO WARRANTY, IMPLIED OR OTHERWISE, AND NO GUARANTEE OF CROSS-PLATFORM COMPATIBILITY.
 
 
-Any questions should be directed to Spencer R. Jones: spencer.jones@colostate.edu
+Any questions should be directed to Spencer Jones: spencer.jones@colostate.edu
 
 
 References:
