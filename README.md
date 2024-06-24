@@ -9,7 +9,7 @@ Some important notes:
        1) Water vapor EOFs were stored in binary format and were created by David Duncan for Duncan and Kummerow (2016).
        2) Gaseous absorption lookup tables were created using MonoRTM. Subroutine for reading in the tables is given in the code for the user to understand the format of the tables. MonoRTM is available from Atmospheric and Environmental Research (https://github.com/AER-RC).
        3) Gamma particle size distribution lookup table and snow scattering lookup table are not provided, but were created using the mie.f subroutine and the read routines for them are provided in dsd.f90 to aid the user in reconstructing them.
-       4) Surface emissivity model used was FastEM6 (Liu et al. 2010).
+       4) Surface emissivity model used was FastEM6 (Liu et al. 2011).
        5) HDF5 libraries are not included.
 
 
