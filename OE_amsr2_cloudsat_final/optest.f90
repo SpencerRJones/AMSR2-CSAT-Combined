@@ -367,7 +367,6 @@
           ! inversion will fail in the retrieval algorithm.
 
           !Latest version: noretrieval is not allowed
-          !    Plus, Duncan was comparing floats! Not a reliable practice!
           noretrieval = 0.00001 
 
 
